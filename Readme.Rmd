@@ -1,0 +1,7 @@
+---
+title: "Readme.md"
+author: "Mark Harnett"
+date: "December 27, 2015"
+output: html_document
+---
+The file run_analysis.R will go to the Samsung data website and download and parse the data. It will then output tidydata.csv with a summary of the data and means.
